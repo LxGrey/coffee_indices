@@ -8,6 +8,7 @@ Summary: Examined time-series data for index price for Coffee (per lb) and the r
  
  Requirements: 
  1. Use time-series data 
- 2. Develop all code and statistical analysis manually, by hand
- 3. Minimal outside libraries (any dependencies must be approved by the Professor)
- 4. Create visual report for final presentation
+ 2. Must use R or Stata
+ 3. Develop all code and statistical analysis manually, by hand
+ 4. Minimal outside libraries (any dependencies must be approved by the Professor)
+ 5. Create visual report for final presentation
